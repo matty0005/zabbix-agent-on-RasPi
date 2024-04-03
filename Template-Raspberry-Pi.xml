@@ -31,7 +31,7 @@
             <items>
                 <item>
                     <name>Board revision</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[boardrevision]</key>
@@ -72,7 +72,7 @@
                 </item>
                 <item>
                     <name>Board serial number</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[boardserialnumber]</key>
@@ -113,7 +113,7 @@
                 </item>
                 <item>
                     <name>Board version</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[boardversion]</key>
@@ -154,7 +154,7 @@
                 </item>
                 <item>
                     <name>Core clock speed</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[coreclock]</key>
@@ -195,7 +195,7 @@
                 </item>
                 <item>
                     <name>CPU clock speed</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[cpuclock]</key>
@@ -236,7 +236,7 @@
                 </item>
                 <item>
                     <name>RAM CPU</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[cpumem]</key>
@@ -282,7 +282,7 @@
                 </item>
                 <item>
                     <name>CPU Voltage</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[cpuvoltage]</key>
@@ -323,7 +323,7 @@
                 </item>
                 <item>
                     <name>Firmware version</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[firmwareversion]</key>
@@ -364,7 +364,7 @@
                 </item>
                 <item>
                     <name>RAM GPU</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[gpumem]</key>
@@ -410,7 +410,7 @@
                 </item>
                 <item>
                     <name>SD-Card - Free disk space</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[sdcardfree]</key>
@@ -451,7 +451,7 @@
                 </item>
                 <item>
                     <name>SD-Card - Total size</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[sdcardtotalsize]</key>
@@ -492,7 +492,7 @@
                 </item>
                 <item>
                     <name>SD-Card - Used disk space in percent</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[sdcardusedpercent]</key>
@@ -533,7 +533,7 @@
                 </item>
                 <item>
                     <name>SD-Card - Used disk space</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[sdcardused]</key>
@@ -574,7 +574,7 @@
                 </item>
                 <item>
                     <name>SD-RAM C voltage</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[sdramcvoltage]</key>
@@ -615,7 +615,7 @@
                 </item>
                 <item>
                     <name>SD-RAM i voltage</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[sdramivoltage]</key>
@@ -656,7 +656,7 @@
                 </item>
                 <item>
                     <name>SD-RAM P voltage</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[sdrampvoltage]</key>
@@ -697,7 +697,7 @@
                 </item>
                 <item>
                     <name>Core temperature</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[temperature]</key>
@@ -738,7 +738,7 @@
                 </item>
                 <item>
                     <name>Throttle State</name>
-                    <type>7</type>
+                    <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
                     <key>raspberrypi.sh[throttlestate]</key>
