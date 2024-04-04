@@ -36,7 +36,7 @@ $ /etc/zabbix/scripts/raspberrypi.sh temperature
 
 Add script to zabbix configuration file:
 ```
-sudo nano /etc/zabbix/zabbix_agentd.conf
+sudo vim /etc/zabbix/zabbix_agentd.conf
 ```
 
 Adding the following line:
